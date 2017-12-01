@@ -1,0 +1,6 @@
+﻿  DiceGame.cpp
+\\mac\home\documents\visual studio 2015\projects\labs\dicegame\dicegame.cpp(23): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+\\mac\home\documents\visual studio 2015\projects\labs\dicegame\dicegame.cpp(53): warning C4101: 'counter': unreferenced local variable
+\\mac\home\documents\visual studio 2015\projects\labs\dicegame\dicegame.cpp(54): warning C4101: 'secondstart': unreferenced local variable
+  DiceGame.vcxproj -> \\Mac\Home\Documents\Visual Studio 2015\Projects\Labs\Debug\DiceGame.exe
+  DiceGame.vcxproj -> \\Mac\Home\Documents\Visual Studio 2015\Projects\Labs\Debug\DiceGame.pdb (Full PDB)

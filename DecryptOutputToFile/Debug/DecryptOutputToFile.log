@@ -1,0 +1,6 @@
+﻿  DecryptToFile.cpp
+c:\users\mehra\documents\visual studio 2015\vs headers\encryption.h(22): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+c:\users\mehra\documents\visual studio 2015\projects\labs\decryptoutputtofile\decrypttofile.cpp(71): warning C4018: '<': signed/unsigned mismatch
+c:\users\mehra\documents\visual studio 2015\projects\labs\decryptoutputtofile\decrypttofile.cpp(92): warning C4018: '<': signed/unsigned mismatch
+  DecryptOutputToFile.vcxproj -> C:\Users\mehra\Documents\Visual Studio 2015\Projects\Labs\Debug\DecryptOutputToFile.exe
+  DecryptOutputToFile.vcxproj -> C:\Users\mehra\Documents\Visual Studio 2015\Projects\Labs\Debug\DecryptOutputToFile.pdb (Partial PDB)

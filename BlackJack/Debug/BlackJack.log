@@ -1,0 +1,5 @@
+﻿  BlackJack.cpp
+c:\users\mehra\documents\visual studio 2015\projects\labs\blackjack\blackjack.cpp(20): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+c:\users\mehra\documents\visual studio 2015\projects\labs\blackjack\blackjack.cpp(145): error C2561: 'main': function must return a value
+  c:\users\mehra\documents\visual studio 2015\projects\labs\blackjack\blackjack.cpp(10): note: see declaration of 'main'
+c:\users\mehra\documents\visual studio 2015\projects\labs\blackjack\blackjack.cpp(148): error C2181: illegal else without matching if

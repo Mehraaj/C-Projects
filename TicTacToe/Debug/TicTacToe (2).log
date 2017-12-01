@@ -1,0 +1,4 @@
+﻿  TicTacToe.cpp
+\\mac\home\documents\visual studio 2015\projects\labs\tictactoe\tictactoe.cpp(40): warning C4101: 'array': unreferenced local variable
+  TicTacToe.vcxproj -> \\Mac\Home\Documents\Visual Studio 2015\Projects\Labs\Debug\TicTacToe.exe
+  TicTacToe.vcxproj -> \\Mac\Home\Documents\Visual Studio 2015\Projects\Labs\Debug\TicTacToe.pdb (Full PDB)
